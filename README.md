@@ -83,3 +83,6 @@ OpenPose是由美国卡耐基梅隆大学开发，可用于人体、人脸、人
 ```bash
 python hpe_api.py
 ```
+
+<video src="video.mp4" autoplay="true" controls="controls" width="800" height="600">
+</video>
